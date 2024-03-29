@@ -52,9 +52,9 @@ char led[] = {
   32,
   33 
 }; // Pins des Leds respectivement de 1 a 12
-char led1 = 22; //led du bouton niveau
-char led2 = 23; //led du bouton start
-char led3 = 24; //led du bouton temps
+char led1 = 32; //led du bouton niveau
+char led2 = 22; //led du bouton start
+char led3 = 33; //led du bouton temps
 
 // Declaration des entrees
 
@@ -72,9 +72,9 @@ char bouton[] = {
   52,
   53
 }; // Pins des boutons respectivement de 1 a 12
-char boutonNiveau = 42; // bouton niveau
-char boutonStart = 43; // bouton start
-char boutonTemps = 44; // bouton temps
+char boutonNiveau = 52; // bouton niveau
+char boutonStart = 42; // bouton start
+char boutonTemps = 53; // bouton temps
 
 // Declaration des notes pour musique best score
 
