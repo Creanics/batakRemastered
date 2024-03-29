@@ -50,3 +50,13 @@ Raisons de la création de (plusieurs) PCB :
 - Assemblage plus joli 😉
 - Réparation facilité
   - En comparaison de faire un seul gros PCB ( si une carte casse pas besoin de tout remplacer... )
+
+## Câblages
+Ne devrais pas être utile sauf non utilisation des PCB créés
+
+- Entrées: pins 42 => 53
+- Sorties: pins 22 => 33
+- Buzzer: pin 34
+- Bouton START: pin 42
+- Bouton LvL: pin 52
+- Bouton TIME: pin 53
