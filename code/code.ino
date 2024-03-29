@@ -39,42 +39,42 @@ int Son[] = {
 
 const int buzzer = 34; //haut parleur à la pin 34
 char led[] = {
-  33,
-  31,
-  29,
-  27,
-  25,
-  23,
   22,
+  23,
   24,
+  25,
   26,
+  27,
   28,
+  29,
   30,
-  32
+  31,
+  32,
+  33 
 }; // Pins des Leds respectivement de 1 a 12
-char led1 = 33; //led du bouton niveau
-char led2 = 31; //led du bouton start
-char led3 = 29; //led du bouton temps
+char led1 = 22; //led du bouton niveau
+char led2 = 23; //led du bouton start
+char led3 = 24; //led du bouton temps
 
 // Declaration des entrees
 
 char bouton[] = {
-  53,
-  51,
-  49,
-  47,
-  45,
-  43,
   42,
+  43,
   44,
+  45,
   46,
+  47,
   48,
+  49,
   50,
-  52
+  51,
+  52,
+  53
 }; // Pins des boutons respectivement de 1 a 12
-char boutonNiveau = 53; // bouton niveau
-char boutonStart = 51; // bouton start
-char boutonTemps = 49; // bouton temps
+char boutonNiveau = 42; // bouton niveau
+char boutonStart = 43; // bouton start
+char boutonTemps = 44; // bouton temps
 
 // Declaration des notes pour musique best score
 
